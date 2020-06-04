@@ -1,0 +1,1 @@
+Simple task done for AGH course - Artifficial Intelligence Methods.
